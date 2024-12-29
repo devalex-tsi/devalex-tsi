@@ -9,5 +9,5 @@
 - [Youtube](https://www.youtube.com/@DevStoriesAndTutorials)
 
 ### Github Stats
-![Alex github stats](https://github-readme-stats.vercel.app/api?username=devalex-tsi&count_private=true&theme=gruvbox&hide=contribs,prs) 
+![Alex github stats](https://github-readme-stats.vercel.app/api?username=devalex-tsi&count_private=true&theme=vue&hide=contribs,prs) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devalex-tsi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
