@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-💻 I'm a Senior Software Engineer with 7+ years of expertise in .NET Core and ASP.NET Core. I have hands-on experience in implementing DevOps practices using Azure and AWS.
+💻 I'm a Senior Software Engineer / DevOps with 10+ years of expertise in .NET Core and ASP.NET Core. I have hands-on experience in implementing DevOps practices using Azure and AWS.
 
 👨‍🎓 Master's degree focused in Information Technology from Belarus State University of Informatics and Radioelectronics.
 
